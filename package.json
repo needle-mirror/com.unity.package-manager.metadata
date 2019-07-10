@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -30,6 +30,9 @@
     "com.unity.textmeshpro",
     "com.unity.vectorgraphics",
     "com.unity.xiaomi",
+    "com.unity.xr.arcore",
+    "com.unity.xr.arfoundation",
+    "com.unity.xr.arkit",
     "com.unity.xr.oculus.standalone",
     "com.unity.xr.oculus.android",
     "com.unity.xr.openvr.standalone",
