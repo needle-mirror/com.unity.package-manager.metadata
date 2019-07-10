@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.28",
+  "version": "0.0.29",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -24,6 +24,7 @@
     "com.unity.immediate-window",
     "com.unity.jobs",
     "com.unity.mathematics",
+    "com.unity.memoryprofiler",
     "com.unity.mobile.android-logcat",
     "com.unity.mobile.notifications",
     "com.unity.package-manager-doctools",
