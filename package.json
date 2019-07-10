@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -10,9 +10,11 @@
     "com.unity.2d.spriteshape",
     "com.unity.ads",
     "com.unity.analytics",
+    "com.unity.animation.cs-jobs-samples",
     "com.unity.assetbundlebrowser",
     "com.unity.cinemachine",
-    "com.unity.animation.cs-jobs-samples",
+    "com.unity.entities",
+    "com.unity.incrementalcompiler",
     "com.unity.package-manager-doctools",
     "com.unity.package-manager-ui",
     "com.unity.package-validation-suite",
@@ -26,7 +28,9 @@
     "com.unity.textmeshpro",
     "com.unity.vectorgraphics",
     "com.unity.xiaomi",
-    "com.unity.incrementalcompiler",
-    "com.unity.entities"
+    "com.unity.xr.oculus.standalone",
+    "com.unity.xr.oculus.android",
+    "com.unity.xr.openvr.standalone",
+    "com.unity.xr.windowsmr.metro"
   ]
 }
