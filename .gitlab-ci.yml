@@ -1,0 +1,36 @@
+image: node:8.9.0
+
+stages:
+  - test
+  - deploy
+
+variables:
+    STAGING_REGISTRY: "https://staging-packages.unity.com"
+    PROD_REGISTRY: "https://packages.unity.com"
+    CI_EMAIL: "packman-ci@unity3d.com"
+    NO_PROXY: "127.0.0.1,localhost"
+
+test:
+    stage: test
+    script:
+        - npm test
+
+deploy:
+    stage: deploy
+    before_script:
+        - node --version
+        - npm --version
+    script:
+        - npm install  # This is only to have an npm version that can publish tarball
+        - CURRENT_VERSION=$(node -p "require('./package.json').version")
+        - if [ "$CI_COMMIT_TAG" != v"$CURRENT_VERSION" ];
+          then
+              echo "Tag "$CI_COMMIT_TAG" does not match package version "$CURRENT_VERSION;
+              exit 1;
+          fi
+        - echo -e registry=$STAGING_REGISTRY\\n_auth=$NPM_AUTH_TOKEN\\nalways-auth=true\\nemail=$CI_EMAIL > .npmrc
+        - npm publish # staging registry publish
+        - echo -e registry=$PROD_REGISTRY\\n_auth=$NPM_AUTH_TOKEN\\nalways-auth=true\\nemail=$CI_EMAIL > .npmrc
+        - npm publish # prod registry publish
+    only:
+        - tags
