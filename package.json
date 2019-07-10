@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.44",
+  "version": "0.0.45",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -53,6 +53,7 @@
     "com.unity.render-pipelines.high-definition",
     "com.unity.render-pipelines.lightweight",
     "com.unity.rendering.hybrid",
+    "com.unity.scriptablebuildpipeline",
     "com.unity.standardevents",
     "com.unity.textmeshpro",
     "com.unity.tiny",
