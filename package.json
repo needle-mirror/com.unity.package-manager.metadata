@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.36",
+  "version": "0.0.37",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -23,6 +23,7 @@
     "com.unity.entities",
     "com.unity.formats.alembic",
     "com.unity.formats.fbx",
+    "com.unity.google.resonance.audio",
     "com.unity.immediate-window",
     "com.unity.inputsystem",
     "com.unity.jobs",
@@ -53,6 +54,8 @@
     "com.unity.xr.arcore",
     "com.unity.xr.arfoundation",
     "com.unity.xr.arkit",
+    "com.unity.xr.googlevr.android",
+    "com.unity.xr.googlevr.ios",
     "com.unity.xr.legacyinputhelpers",
     "com.unity.xr.oculus.standalone",
     "com.unity.xr.oculus.android",
