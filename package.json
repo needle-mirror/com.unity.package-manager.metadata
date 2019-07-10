@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.40",
+  "version": "0.0.41",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -46,6 +46,7 @@
     "com.unity.purchasing",
     "com.unity.purchasing.udp",
     "com.unity.quicksearch",
+    "com.unity.recorder",
     "com.unity.render-pipelines.high-definition",
     "com.unity.render-pipelines.lightweight",
     "com.unity.rendering.hybrid",
