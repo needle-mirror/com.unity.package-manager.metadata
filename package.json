@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -35,6 +35,7 @@
     "com.unity.tiny",
     "com.unity.cloud.userreporting",
     "com.unity.vectorgraphics",
+    "com.unity.visualeffectgraph",
     "com.unity.xiaomi",
     "com.unity.xr.arcore",
     "com.unity.xr.arfoundation",
