@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.50",
+  "version": "0.0.51",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -72,6 +72,7 @@
     "com.unity.xr.googlevr.android",
     "com.unity.xr.googlevr.ios",
     "com.unity.xr.legacyinputhelpers",
+    "com.unity.xr.management",
     "com.unity.xr.oculus.standalone",
     "com.unity.xr.oculus.android",
     "com.unity.xr.openvr.standalone",
