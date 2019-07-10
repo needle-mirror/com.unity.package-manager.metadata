@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "searchablePackages": [
     "com.unity.2d.animation",
@@ -20,6 +20,7 @@
     "com.unity.render-pipelines.lightweight",
     "com.unity.standardevents",
     "com.unity.textmeshpro",
+    "com.unity.vectorgraphics",
     "com.unity.xiaomi"
   ]
 }
