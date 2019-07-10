@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -34,6 +34,7 @@
     "com.unity.package-manager-ui",
     "com.unity.package-validation-suite",
     "com.unity.playablegraph-visualizer",
+    "com.unity.polybrush",
     "com.unity.postprocessing",
     "com.unity.probuilder",
     "com.unity.progrids",
