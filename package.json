@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.48",
+  "version": "0.0.49",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -21,6 +21,7 @@
     "com.unity.burst",
     "com.unity.cinemachine",
     "com.unity.collections",
+    "com.unity.connect.share",
     "com.unity.editorcoroutines",
     "com.unity.entities",
     "com.unity.film-tv.toolbox",
