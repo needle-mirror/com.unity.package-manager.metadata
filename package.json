@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -13,6 +13,7 @@
     "com.unity.ads",
     "com.unity.analytics",
     "com.unity.assetbundlebrowser",
+    "com.unity.burst",
     "com.unity.cinemachine",
     "com.unity.entities",
     "com.unity.incrementalcompiler",
