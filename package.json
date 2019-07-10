@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -12,6 +12,7 @@
     "com.unity.2d.spriteshape",
     "com.unity.ads",
     "com.unity.analytics",
+    "com.unity.animation.rigging",
     "com.unity.assetbundlebrowser",
     "com.unity.burst",
     "com.unity.cinemachine",
@@ -20,6 +21,7 @@
     "com.unity.incrementalcompiler",
     "com.unity.jobs",
     "com.unity.mathematics",
+    "com.unity.mobile.android-logcat",
     "com.unity.mobile.notifications",
     "com.unity.package-manager-doctools",
     "com.unity.package-manager-ui",
