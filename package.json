@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "searchablePackages": [
     "com.unity.2d.animation",
@@ -9,8 +9,9 @@
     "com.unity.analytics",
     "com.unity.assetbundlebrowser",
     "com.unity.cinemachine",
-    "com.unity.oculus",
+    "com.unity.package-manager-doctools",
     "com.unity.package-manager-ui",
+    "com.unity.package-validation-suite",
     "com.unity.postprocessing",
     "com.unity.probuilder",
     "com.unity.progrids",
