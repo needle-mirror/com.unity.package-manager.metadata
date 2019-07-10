@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/4dbeb0b/
+0	package.json	/^    "com.unity.2d.animation",$/;"	s	array:searchablePackages
+1	package.json	/^    "com.unity.2d.spriteshape",$/;"	s	array:searchablePackages
+10	package.json	/^    "com.unity.probuilder",$/;"	s	array:searchablePackages
+11	package.json	/^    "com.unity.purchasing",$/;"	s	array:searchablePackages
+12	package.json	/^    "com.unity.render-pipelines.high-definition",$/;"	s	array:searchablePackages
+13	package.json	/^    "com.unity.render-pipelines.lightweight",$/;"	s	array:searchablePackages
+14	package.json	/^    "com.unity.standardevents",$/;"	s	array:searchablePackages
+15	package.json	/^    "com.unity.textmeshpro",$/;"	s	array:searchablePackages
+16	package.json	/^    "com.unity.xiaomi"$/;"	s	array:searchablePackages
+2	package.json	/^    "com.unity.ads",$/;"	s	array:searchablePackages
+3	package.json	/^    "com.unity.analytics",$/;"	s	array:searchablePackages
+4	package.json	/^    "com.unity.assetbundlebrowser",$/;"	s	array:searchablePackages
+5	package.json	/^    "com.unity.cinemachine",$/;"	s	array:searchablePackages
+6	package.json	/^    "com.unity.facebook-platform",$/;"	s	array:searchablePackages
+7	package.json	/^    "com.unity.oculus",$/;"	s	array:searchablePackages
+8	package.json	/^    "com.unity.package-manager-ui",$/;"	s	array:searchablePackages
+9	package.json	/^    "com.unity.postprocessing",$/;"	s	array:searchablePackages
+description	package.json	/^  "description": "Contains metadata used by the com.unity.package-manager package to fulfill cli/;"	s
+name	package.json	/^  "name": "com.unity.package-manager.metadata",$/;"	s
+searchablePackages	package.json	/^  "searchablePackages": [$/;"	a
+version	package.json	/^  "version": "0.0.5",$/;"	s
