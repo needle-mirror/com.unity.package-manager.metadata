@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -31,6 +31,7 @@
     "com.unity.render-pipelines.lightweight",
     "com.unity.standardevents",
     "com.unity.textmeshpro",
+    "com.unity.cloud.userreporting",
     "com.unity.vectorgraphics",
     "com.unity.xiaomi",
     "com.unity.xr.arcore",
