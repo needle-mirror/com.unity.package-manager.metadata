@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -23,6 +23,7 @@
     "com.unity.entities",
     "com.unity.formats.fbx",
     "com.unity.immediate-window",
+    "com.unity.inputsystem",
     "com.unity.jobs",
     "com.unity.mathematics",
     "com.unity.memoryprofiler",
