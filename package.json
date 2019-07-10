@@ -1,0 +1,24 @@
+{
+  "name": "com.unity.package-manager.metadata",
+  "version": "0.0.1",
+  "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
+  "searchablePackages": [
+    "com.unity.xiaomi",
+    "com.unity.analytics",
+    "com.unity.ads",
+    "com.unity.purchasing",
+    "com.unity.package-manager-ui",
+    "com.unity.resourcemanager",
+    "com.unity.textmeshpro",
+    "com.unity.standardevents",
+    "com.unity.render-pipelines",
+    "com.unity.cinemachine",
+    "com.unity.probuilder",
+    "com.unity.assetbundlebrowser",
+    "com.unity.facebook-platform",
+    "com.unity.spriteshape",
+    "com.unity.render-pipelines.lightweight",
+    "com.unity.render-pipelines.high-definition",
+    "com.unity.shadergraph"
+  ]
+}
