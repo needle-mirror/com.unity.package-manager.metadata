@@ -6,7 +6,7 @@ stages:
 
 variables:
     STAGING_REGISTRY: "https://staging-packages.unity.com"
-    PROD_REGISTRY: "https://packages.unity.com"
+    PROD_REGISTRY: "https://api.bintray.com/npm/unity/unity"
     CI_EMAIL: "packman-ci@unity3d.com"
     NO_PROXY: "127.0.0.1,localhost"
 

@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.52",
+  "version": "0.0.53",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "scripts": {
     "test": "echo Package manifest can be opened"
@@ -14,6 +14,7 @@
     "com.unity.2d.spriteshape",
     "com.unity.addressables",
     "com.unity.ads",
+    "com.unity.ads.mediation",
     "com.unity.ai.planner",
     "com.unity.analytics",
     "com.unity.animation.rigging",
