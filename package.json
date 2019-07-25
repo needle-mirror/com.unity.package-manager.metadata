@@ -1,9 +1,9 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.53",
+  "version": "0.0.54",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
-  "scripts": {
-    "test": "echo Package manifest can be opened"
+  "devDependencies": {
+    "sync-request": "^6.1.0"
   },
   "searchablePackages": [
     "com.ptc.vuforia.engine",
@@ -12,6 +12,7 @@
     "com.unity.2d.pixel-perfect",
     "com.unity.2d.psdimporter",
     "com.unity.2d.spriteshape",
+    "com.unity.adaptiveperformance",
     "com.unity.addressables",
     "com.unity.ads",
     "com.unity.ads.mediation",
@@ -56,6 +57,7 @@
     "com.unity.remote-config",
     "com.unity.render-pipelines.high-definition",
     "com.unity.render-pipelines.lightweight",
+    "com.unity.render-pipelines.universal",
     "com.unity.rendering.hybrid",
     "com.unity.scriptablebuildpipeline",
     "com.unity.standardevents",
