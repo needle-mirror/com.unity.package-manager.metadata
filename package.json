@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.55",
+  "version": "0.0.56",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -13,12 +13,14 @@
     "com.unity.2d.psdimporter",
     "com.unity.2d.spriteshape",
     "com.unity.adaptiveperformance",
+    "com.unity.adaptiveperformance.samsung.android",
     "com.unity.addressables",
     "com.unity.ads",
     "com.unity.ads.mediation",
     "com.unity.ai.planner",
     "com.unity.analytics",
     "com.unity.animation.rigging",
+    "com.unity.aovrecorder",
     "com.unity.assetbundlebrowser",
     "com.unity.burst",
     "com.unity.cinemachine",
