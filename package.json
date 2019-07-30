@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.58",
+  "version": "0.0.59",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -56,7 +56,6 @@
     "com.unity.quicksearch",
     "com.unity.recorder",
     "com.unity.reflect",
-    "com.unity.reflect.runtime",
     "com.unity.remote-config",
     "com.unity.render-pipelines.high-definition",
     "com.unity.render-pipelines.lightweight",
