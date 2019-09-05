@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.59",
+  "version": "0.0.60",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -22,6 +22,8 @@
     "com.unity.animation.rigging",
     "com.unity.aovrecorder",
     "com.unity.assetbundlebrowser",
+    "com.unity.barracuda",
+    "com.unity.barracuda.burst",
     "com.unity.burst",
     "com.unity.cinemachine",
     "com.unity.collections",
@@ -63,6 +65,7 @@
     "com.unity.rendering.hybrid",
     "com.unity.scriptablebuildpipeline",
     "com.unity.standardevents",
+    "com.unity.testtools.codecoverage",
     "com.unity.test-framework",
     "com.unity.textmeshpro",
     "com.unity.terrain-tools",
