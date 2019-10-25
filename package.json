@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.64",
+  "version": "0.0.65",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -96,6 +96,7 @@
     "com.unity.xr.oculus.standalone",
     "com.unity.xr.oculus.android",
     "com.unity.xr.openvr.standalone",
+    "com.unity.xr.windowsmr",
     "com.unity.xr.windowsmr.metro"
   ]
 }
