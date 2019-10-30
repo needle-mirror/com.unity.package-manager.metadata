@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.65",
+  "version": "0.0.66",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -25,6 +25,7 @@
     "com.unity.assetbundlebrowser",
     "com.unity.barracuda",
     "com.unity.barracuda.burst",
+    "com.unity.build-report-inspector",
     "com.unity.burst",
     "com.unity.cinemachine",
     "com.unity.cloud.userreporting",
