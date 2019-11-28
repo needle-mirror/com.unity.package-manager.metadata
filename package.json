@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.67",
+  "version": "0.0.68",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -32,6 +32,7 @@
     "com.unity.collections",
     "com.unity.connect.share",
     "com.unity.device-simulator",
+    "com.unity.dots.editor",
     "com.unity.editorcoroutines",
     "com.unity.entities",
     "com.unity.film-tv.toolbox",
