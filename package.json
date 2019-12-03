@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.69",
+  "version": "0.0.70",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -50,6 +50,7 @@
     "com.unity.mobile.buildreport",
     "com.unity.mobile.notifications",
     "com.unity.multiplayer-hlapi",
+    "com.unity.netcode",
     "com.unity.package-manager-doctools",
     "com.unity.package-manager-ui",
     "com.unity.package-validation-suite",
@@ -84,6 +85,7 @@
     "com.unity.test-framework",
     "com.unity.textmeshpro",
     "com.unity.terrain-tools",
+    "com.unity.transport",
     "com.unity.ui.builder",
     "com.unity.vectorgraphics",
     "com.unity.visualeffectgraph",
