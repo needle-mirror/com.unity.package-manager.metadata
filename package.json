@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.70",
+  "version": "0.0.71",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -23,6 +23,7 @@
     "com.unity.animation.rigging",
     "com.unity.aovrecorder",
     "com.unity.assetbundlebrowser",
+    "com.unity.assetgraph",
     "com.unity.barracuda",
     "com.unity.barracuda.burst",
     "com.unity.build-report-inspector",
