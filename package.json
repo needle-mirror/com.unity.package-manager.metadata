@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.72",
+  "version": "0.0.73",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -99,6 +99,7 @@
     "com.unity.xr.arkit-face-tracking",
     "com.unity.xr.googlevr.android",
     "com.unity.xr.googlevr.ios",
+    "com.unity.xr.interaction.toolkit",
     "com.unity.xr.legacyinputhelpers",
     "com.unity.xr.management",
     "com.unity.xr.oculus.standalone",
