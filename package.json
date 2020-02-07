@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.74",
+  "version": "0.0.75",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -48,7 +48,6 @@
     "com.unity.mathematics",
     "com.unity.memoryprofiler",
     "com.unity.mobile.android-logcat",
-    "com.unity.mobile.buildreport",
     "com.unity.mobile.notifications",
     "com.unity.multiplayer-hlapi",
     "com.unity.netcode",
