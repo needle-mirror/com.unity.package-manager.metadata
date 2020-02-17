@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.77",
+  "version": "0.0.78",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -9,6 +9,7 @@
     "com.havok.physics",
     "com.ptc.vuforia.engine",
     "com.unity.2d.animation",
+    "com.unity.2d.entities",
     "com.unity.2d.ik",
     "com.unity.2d.pixel-perfect",
     "com.unity.2d.psdimporter",
