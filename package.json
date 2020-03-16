@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.79",
+  "version": "0.0.80",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "sync-request": "^6.1.0"
@@ -80,6 +80,8 @@
     "com.unity.rendering.hybrid",
     "com.unity.scene-template",
     "com.unity.scriptablebuildpipeline",
+    "com.unity.simulation.client",
+    "com.unity.simulation.core",
     "com.unity.standardevents",
     "com.unity.testtools.codecoverage",
     "com.unity.test-framework",
