@@ -1,8 +1,9 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.81",
+  "version": "0.0.88",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
+    "request": "^2.88.2",
     "sync-request": "^6.1.0"
   },
   "searchablePackages": [
