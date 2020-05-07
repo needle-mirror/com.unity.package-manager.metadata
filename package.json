@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.89",
+  "version": "0.0.90",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "request": "^2.88.2",
@@ -46,6 +46,7 @@
     "com.unity.immediate-window",
     "com.unity.inputsystem",
     "com.unity.jobs",
+    "com.unity.kinematica",
     "com.unity.mathematics",
     "com.unity.memoryprofiler",
     "com.unity.meshsync",
