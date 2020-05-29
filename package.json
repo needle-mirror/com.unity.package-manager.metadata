@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.90",
+  "version": "0.0.91",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "request": "^2.88.2",
@@ -31,6 +31,7 @@
     "com.unity.burst",
     "com.unity.cinemachine",
     "com.unity.cloud.userreporting",
+    "com.unity.collab-proxy",
     "com.unity.collections",
     "com.unity.connect.share",
     "com.unity.device-simulator",
