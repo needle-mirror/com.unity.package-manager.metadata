@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.92",
+  "version": "0.0.93",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "request": "^2.88.2",
@@ -96,6 +96,7 @@
     "com.unity.test-framework.performance",
     "com.unity.textmeshpro",
     "com.unity.terrain-tools",
+    "com.unity.timeline",
     "com.unity.tiny.all",
     "com.unity.transport",
     "com.unity.ui.builder",
