@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.91",
+  "version": "0.0.92",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "request": "^2.88.2",
@@ -44,6 +44,8 @@
     "com.unity.formats.usd",
     "com.unity.game.foundation",
     "com.unity.google.resonance.audio",
+    "com.unity.ide.rider",
+    "com.unity.ide.vscode",
     "com.unity.immediate-window",
     "com.unity.inputsystem",
     "com.unity.jobs",
