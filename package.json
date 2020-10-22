@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata",
-  "version": "0.0.93",
+  "version": "0.0.95",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests",
   "devDependencies": {
     "request": "^2.88.2",
@@ -42,7 +42,7 @@
     "com.unity.formats.alembic",
     "com.unity.formats.fbx",
     "com.unity.formats.usd",
-    "com.unity.game.foundation",
+    "com.unity.game-foundation",
     "com.unity.google.resonance.audio",
     "com.unity.ide.rider",
     "com.unity.ide.vscode",
@@ -87,6 +87,7 @@
     "com.unity.rendering.hybrid",
     "com.unity.scene-template",
     "com.unity.scriptablebuildpipeline",
+    "com.unity.shadergraph",
     "com.unity.simulation.client",
     "com.unity.simulation.core",
     "com.unity.standardevents",
